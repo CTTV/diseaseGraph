@@ -1,0 +1,36 @@
+{
+  "name": "cttv.diseaseGraph",
+  "version": "0.0.1",
+  "description": "Visualization of EFO terms for CTTV",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "gulp test"
+  },
+  "keywords": [
+    "cttv",
+    "EFO",
+    "graph"
+  ],
+  "author": "Miguel Pignatelli",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "browserify": "~4.2.0",
+    "del": "^2.2.0",
+    "gulp": "^3.9.0",
+    "gulp-browserify": "^0.5.1",
+    "gulp-gzip": "1.2.0",
+    "gulp-jshint": "^2.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.1.1",
+    "gulp-uglify": "^1.5.1",
+    "gulp-watch": "^4.3.5",
+    "mkdirp": "^0.5.1"
+  },
+  "dependencies": {
+    "tnt.tooltip": "0.1.0",
+    "tnt.utils": "0.1.0"
+  }
+}
