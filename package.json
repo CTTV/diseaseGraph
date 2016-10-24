@@ -1,6 +1,6 @@
 {
   "name": "cttv.diseaseGraph",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Visualization of EFO terms for CTTV",
   "main": "index.js",
   "directories": {
