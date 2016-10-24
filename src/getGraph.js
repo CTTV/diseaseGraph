@@ -151,12 +151,12 @@ function getGraph (efo_info) {
     //constraints.push(childrenConstraint);
     // constraints.push(ancestorConstraint);
 
-    console.log({
-        "nodes" : nodes,
-        "links" : links,
-        "constraints" : constraints,
-        "groups" : groups
-    });
+    // console.log({
+    //     "nodes" : nodes,
+    //     "links" : links,
+    //     "constraints" : constraints,
+    //     "groups" : groups
+    // });
 
     return {
         "nodes" : nodes,
