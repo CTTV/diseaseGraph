@@ -30,7 +30,7 @@
     "mkdirp": "^0.5.1"
   },
   "dependencies": {
-    "tnt.tooltip": "0.1.0",
+    "tnt.tooltip": "^0.2.0",
     "tnt.utils": "0.1.0"
   }
 }
